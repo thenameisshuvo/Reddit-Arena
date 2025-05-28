@@ -53,7 +53,7 @@ const App = () => {
           {/* Logo Section */}
           <div className="flex items-center">
             <img 
-              src="../public/images/Animation - 1748099890527.gif" 
+              src="/images/Animation - 1748099890527.gif" 
               alt="Reddit Arena" 
               className="h-12 w-12 rounded-full cursor-pointer"
               onClick={() => setIsWelcomeVisible(true)}
