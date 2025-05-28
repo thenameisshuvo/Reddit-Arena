@@ -16,6 +16,7 @@ Reddit Arena is a web application that allows users to stay updated with multipl
 - Tailwind CSS
 - Font Awesome
 - Heroicons
+- Vite
 
 ## Installation
 
